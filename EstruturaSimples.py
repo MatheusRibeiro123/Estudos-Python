@@ -1,3 +1,5 @@
+#Estudando comando que guarda valor temporario de uma variavel
+
 A = input("Digite um valor para a variavel A: ")
 B = input("Digite um valor para a variavel B: ")
 

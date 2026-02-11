@@ -1,3 +1,5 @@
+#variaveis
+
 codigo = 105
 nome = 'José Santana'
 salario = 1650.00
