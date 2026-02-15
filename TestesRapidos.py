@@ -1,6 +1,12 @@
-#Testes Rapidos
+# multiplicador = int(input("digite o numero que deseja ver a tabuada: "))
 
-idade = int(input("Digite sua idade :"))
-if idade >= 18:
-    print("voce é de maior") 
-else : print("voce é de menor ")
+# for i in range(1,11):
+#     print(multiplicador, "x", i,  , multiplicador * i)
+
+
+#///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+for n in range(10 ,0,):
+    print (n)
