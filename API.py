@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "bglh dificil"
+    return "API funcionando"
 
 if __name__ == "__main__":
-    app.run(app.run(host="0.0.0.0", port=5000))
+    app.run(app.run(debug=True))
